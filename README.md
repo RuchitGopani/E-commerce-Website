@@ -14,6 +14,15 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+### `node server.js`
+
+Runs an server for front-end to fetch data.
+
+## Important
+
+There should one file created `db.json` in which the data will be stored.
+`db.json` will contain two Arrays "Users" and "Charts".
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
