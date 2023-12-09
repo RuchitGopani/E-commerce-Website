@@ -20,7 +20,7 @@ Runs an server for front-end to fetch data.
 
 ## Important
 
-There should one file created `db.json` in which the data will be stored.
+Before Running `server.js` one JSON file should be created `db.json` in which the data will be stored.
 `db.json` will contain two Arrays "Users" and "Charts".
 
 ### `npm test`
