@@ -17,6 +17,7 @@ You may also see any lint errors in the console.
 ### `node server.js`
 
 Runs an server for front-end to fetch data.
+This will run server on [http://localhost:8080](http://localhost:8080).
 
 ## Important
 
